@@ -1,4 +1,7 @@
-
+---
+layout: post
+title:  "Quadratic Residue Cryptohack Writeup"
+---
 
 
 ##### Given:
