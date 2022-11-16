@@ -1,7 +1,8 @@
+---
+layout: post
+title:  "Anonmymous TryHackMe Writeup"
+---
 
-
-
-# Nmap 7.91 scan initiated Sun Sep 12 17:52:44 2021 as: nmap -sC -sV -oN anonymousRD.md 10.10.238.3
 Nmap scan report for 10.10.238.3
 Host is up (0.17s latency).
 Not shown: 996 closed ports
@@ -55,7 +56,6 @@ Host script results:
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 
-# Nmap done at Sun Sep 12 17:53:40 2021 -- 1 IP address (1 host up) scanned in 56.06 seconds
 
 
 
