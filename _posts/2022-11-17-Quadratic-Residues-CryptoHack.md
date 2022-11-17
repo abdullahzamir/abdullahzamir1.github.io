@@ -65,3 +65,5 @@ a^2 mod 29 = 6
 we get 8,21
 8^2 mod 29 = 6
 Ans: 8 (smallest)
+
+--- 
